@@ -1,5 +1,5 @@
 <h3 align="left">Hi 👋, I'm kareem Al-sarhi</h3>
-<h3 align="left">A passionate Mobile developer from Palestine</h3>
+<h3 align="left">A passionate backend developer from Palestine</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/kareemalsarhi](https://github.com/20202002karem)
 
