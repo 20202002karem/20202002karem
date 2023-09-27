@@ -35,6 +35,6 @@
 ###
 <p align="left">
   <ul>
-    <li>Business Email :<a href="mailto:kareem2020nm@gmail@gmail.com"> muhannedalsoradi@gmail.com</a></li>
-    <li>Personal Email :<a href="mailto:kareem2020nm@gmail@gmail.com"> mhndalsrdy14@gmail.com</a></li>
+    <li>Business Email :<a href="mailto:kareem2020nm@gmail@gmail.com"> @gmail.com</a></li>
+    <li>Personal Email :<a href="mailto:kareem2020nm@gmail@gmail.com"> kareemalsarhi@gmail.com</a></li>
   </ul>  
